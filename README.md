@@ -1,6 +1,6 @@
 # README
 
-This github repo is used by my blog post, Overriding the Favicon in DXP.
+This github repo is used by my blog post, [Overriding the Favicon in DXP](https://community.liferay.com/blogs/-/blogs/overriding-the-favicon-in-dxp).
 
 It is the code that I used to test out the favicon-override module deployment. 
 
